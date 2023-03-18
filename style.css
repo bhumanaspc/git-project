@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-attachment:blue;
+    font-size: 30px;
+}
+.addcode {
+    color: rgb(165, 102, 19);
+}
